@@ -1,5 +1,5 @@
 {
-  "name": "p2u-ui-kit",
+  "name": "@jake-jenkins/ui-toolkit",
   "version": "1.0.1",
   "description": "React component library",
   "scripts": {
@@ -28,5 +28,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/jake-jenkins"
+  }
 }
