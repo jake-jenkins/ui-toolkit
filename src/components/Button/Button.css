@@ -1,3 +1,17 @@
 button {
-  font-size: 60px;
+  font-size: 1rem;
+  padding: 18px 60px;
+  outline: 2px solid transparent;
+  font-family: "Inter", sans-serif;
+  outline-offset: 2px;
+  border: none;
+  background-color: #005b8f;
+  color: #fff;
+  margin-bottom: 0.5rem;
+  border-radius: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #004e7b;
 }

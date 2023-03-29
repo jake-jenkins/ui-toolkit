@@ -1,6 +1,6 @@
 {
   "name": "@p2u/ui-toolkit",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "React component library",
   "scripts": {
     "rollup": "rollup -c"
